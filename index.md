@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 # Welcome!
 
 ## My name is Noah Johnson and I am a web developer
