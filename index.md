@@ -4,5 +4,5 @@
 
 This is my portfolio website that I am going to be working on.
 
-[Check out my Blog](blog.md)
-[Check out my Projects](portfolio.md)
+[Check out my Blog](blog)
+[Check out my Projects](projects)
